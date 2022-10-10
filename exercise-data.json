@@ -1,0 +1,20 @@
+[
+    {
+        "name": "course_1",
+        "author": "person_1",
+        "tags": ["sub_1", "sub_2"],
+        "ispublished": true
+    },
+    {
+        "name": "course_2",
+        "author": "person_1",
+        "tags": ["sub_3", "sub_2"],
+        "ispublished": true
+    },
+    {
+        "name": "course_3",
+        "author": "person_2",
+        "tags": ["sub_1", "sub_3"],
+        "ispublished": false
+    } 
+]
